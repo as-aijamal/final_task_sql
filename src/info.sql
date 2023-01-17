@@ -118,7 +118,7 @@ insert into agencies (name, phone_number, address_id) values ('House_kg', '+9967
 insert into agencies (name, phone_number, address_id) values ('Apartment Agency', '+996550123456', 2);
 insert into agencies (name, phone_number, address_id) values ('Rent Agency', '+996999098765', 3);
 insert into agencies (name, phone_number, address_id) values ('Comfort House', '+996500789098', 4);
-insert into agencies (name, phone_number, address_id) values ('My House', '+997086123456', 5);
+insert into agencies (name, phone_number, address_id) values ('My House', '+996086123456', 5);
 insert into agencies (name, phone_number, address_id) values ('Sweet Home', '+996709123456', 6);
 insert into agencies (name, phone_number, address_id) values ('Kg_apartment', '+996700789876', 7);
 insert into agencies (name, phone_number, address_id) values ('Rent_Apartment', '+996700987654', 8);
