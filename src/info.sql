@@ -129,7 +129,7 @@ insert into agencies (name, phone_number, address_id) values ('Flat_rent', '+996
 -- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('House', 891, 1.8, 'Goldner, Skiles and Gorczany', 11, true,33 ,1 );
-insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('Apartment', 1407, 2.6, 'Dibbert, Emard and Gerlach', 19, false,34 ,39 );
+insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('Apartment', 1407, 2.6, 'Dibbert, Emard and Gerlach', 19, false,34 ,30 );
 insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('Apartment', 747, 1.4, 'Smitham-Rogahn', 14, true,35 ,21 );
 insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('House', 1393, 4.3, 'Russel LLC', 14, true, 32, 20);
 insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('Apartment', 496, 4.5, 'Big light rooms', 5, false,1 ,2 );
@@ -142,9 +142,9 @@ insert into houses (house_type, price, rating, description, room, furniture, add
 insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('Apartment', 838, 4.0, 'Russel Group', 11, false,17 , 4);
 insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('House', 476, 4.6, 'Schulist Group', 15, false,4 , 24);
 insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('House', 979, 3.9, 'Collins-Daniel', 20, false,30, 5);
-insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('Apartment', 1964, 1.7, 'Flatley, Medhurst and Reilly', 17, false,39 ,38 );
+insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('Apartment', 1964, 1.7, 'Flatley, Medhurst and Reilly', 17, false,39 ,31 );
 insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('Apartment', 1197, 2.0, 'Pollich-Roberts', 16, true,29 , 33);
-insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('House', 1536, 4.4, 'Ritchie-Ebert', 15, true, 18,37 );
+insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('House', 1536, 4.4, 'Ritchie-Ebert', 15, true, 18,31);
 insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('Apartment', 1181, 3.6, 'Weissnat Group', 18, true,5 , 6);
 insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('House', 1273, 4.1, 'McCullough-Mueller', 8, false, 19,32 );
 insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('Apartment', 1429, 3.4, 'Big family flat', 6, false,16, 7);
@@ -156,7 +156,7 @@ insert into houses (house_type, price, rating, description, room, furniture, add
 insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('House', 1630, 4.3, 'Upton Inc', 7, true, 28, 18);
 insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('Apartment', 1125, 1.5, 'Streich, Wisozk and Kessler', 19, true,8 ,28 );
 insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('House', 133, 3.4, 'Okuneva-Hagenes', 1, false, 9, 17);
-insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('Apartment', 344, 1.4, 'Ratke LLC', 13, false, 25,36 );
+insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('Apartment', 344, 1.4, 'Ratke LLC', 13, false, 25,12 );
 insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('House', 1657, 1.1, 'Kiehn and Sons', 18, true,10 ,8);
 insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('House', 1941, 4.0, 'Walker-Doyle', 8, false, 20, 35);
 insert into houses (house_type, price, rating, description, room, furniture, address_id, owner_id) values ('House', 1462, 3.5, 'Sipes, McKenzie and Johnson', 16, true,21 ,16 );
