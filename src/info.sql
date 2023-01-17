@@ -114,16 +114,16 @@ insert into addresses (city, region, street) values ('Sundsvall', 'ID-PA', '1939
 
 -- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-insert into agencies (name, phone_number, address_id) values ('House_kg', '7442607302', 1);
-insert into agencies (name, phone_number, address_id) values ('Apartment Agency', '4881690170', 2);
-insert into agencies (name, phone_number, address_id) values ('Rent Agency', '3846963745', 3);
-insert into agencies (name, phone_number, address_id) values ('Comfort House', '3385691599', 4);
-insert into agencies (name, phone_number, address_id) values ('My House', '2652931218', 5);
-insert into agencies (name, phone_number, address_id) values ('Sweet Home', '7409009071', 6);
-insert into agencies (name, phone_number, address_id) values ('Kg_apartment', '4882800591', 7);
-insert into agencies (name, phone_number, address_id) values ('Rent_Apartment', '6385579344', 8);
-insert into agencies (name, phone_number, address_id) values ('Get House', '7281699450', 9);
-insert into agencies (name, phone_number, address_id) values ('Flat_rent', '4187564877', 10);
+insert into agencies (name, phone_number, address_id) values ('House_kg', '+996700919191', 1);
+insert into agencies (name, phone_number, address_id) values ('Apartment Agency', '+996550123456', 2);
+insert into agencies (name, phone_number, address_id) values ('Rent Agency', '+996999098765', 3);
+insert into agencies (name, phone_number, address_id) values ('Comfort House', '+996500789098', 4);
+insert into agencies (name, phone_number, address_id) values ('My House', '+997086123456', 5);
+insert into agencies (name, phone_number, address_id) values ('Sweet Home', '+996709123456', 6);
+insert into agencies (name, phone_number, address_id) values ('Kg_apartment', '+996700789876', 7);
+insert into agencies (name, phone_number, address_id) values ('Rent_Apartment', '+996700987654', 8);
+insert into agencies (name, phone_number, address_id) values ('Get House', '+996700987654', 9);
+insert into agencies (name, phone_number, address_id) values ('Flat_rent', '+996550418756', 10);
 
 
 -- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
